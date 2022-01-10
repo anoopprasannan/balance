@@ -1,0 +1,47 @@
+/* .flex-container{
+    display: flex;
+    width: 100%;
+    height: 350px;
+    background-color: rgb(165, 122, 122);
+    flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
+    justify-content: center; 
+     align-items:center ;
+}   
+
+.child{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(78, 76, 72);
+    margin: 10px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 30px;
+    
+    
+}
+#child1{
+
+flex-grow: 10;
+
+}
+
+
+#child2{
+order:3
+}
+#child3{
+order:1
+} */
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+ 
+}
+.inner-container{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(21, 255, 255);
+}
